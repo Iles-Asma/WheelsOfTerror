@@ -8,5 +8,8 @@ public class EnemyEntity: Monobehavior{
 
     public vector3 walkPoint
 
+    public float timebetween
+
+
 }
 
