@@ -3,7 +3,107 @@ guid: 3ba34ea95447a46058d1bc70ee194cf5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A8B4A
+    second: {fileID: 2100000, guid: e0405f0f934864063a23f683f22f9b5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A8PNG_TRANSPARENT
+    second: {fileID: 2100000, guid: d926e24a5f6bf4cbea7f4eacaf848b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_2STRUCTURE_MAISON
+    second: {fileID: 2100000, guid: 69b720a2c679247a89bfd59ac82b21be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_B4A
+    second: {fileID: 2100000, guid: 61e0a94a985504dacb070178e83fc445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_CAR_BLUE
+    second: {fileID: 2100000, guid: f8ad49a40e5a44db8a26a99b2fa45be5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_DOOR_WINDOW
+    second: {fileID: 2100000, guid: 4a2d689b43ba245e8b7205d0cc946775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_FLEUR
+    second: {fileID: 2100000, guid: c264f03193c4643d8b9b751b62335d3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_PLAQUE
+    second: {fileID: 2100000, guid: 20d1152a7db8d42258f216799b645178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_PNGEGEG
+    second: {fileID: 2100000, guid: 8b29af3ec8c46449db0b1bcc1a4013cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_SHUTTERSTOCK
+    second: {fileID: 2100000, guid: 82fd83e77b3ae4bfbb7ddd2ea7ebcb5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_SHUTTERSTOCK.001
+    second: {fileID: 2100000, guid: e7edf18a95c964515b17f6ce5ce4697f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_TEXTURESMAISON
+    second: {fileID: 2100000, guid: e23173bed308a4841901ff776bbfdf78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_the-back-of-rusty
+    second: {fileID: 2100000, guid: 626f70bd8d2f249ecbebf08de65d7306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEAF.001
+    second: {fileID: 2100000, guid: a8d0b4cc4f04c4664a2cdfa84e56a35e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pierre
+    second: {fileID: 2100000, guid: 011f36855ff2548cba62e10285c7d44d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Route
+    second: {fileID: 2100000, guid: 510c3ff415e1947e290675ac13e903ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOL
+    second: {fileID: 2100000, guid: 1185f9ac6bf8b4ac094791589d743a41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRONC
+    second: {fileID: 2100000, guid: c588103d1e7414177a33285596429ae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: forest
+    second: {fileID: 2100000, guid: cf5f9336e29ce4771a338501f62d7207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 1e7587121dbd1417cad26a14e5ff23a4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
