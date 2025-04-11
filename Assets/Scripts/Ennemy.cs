@@ -14,6 +14,10 @@ using UnityEngine.AI;
 
     void Start() { 
         agent = GetComponent<NavMeshAgent>();
+        if (agent == null)
+        {
+            Debug.LogError("NavMeshAgent is missing on " + gameObject.name);
+        }
 
     }
 
@@ -43,6 +47,7 @@ using UnityEngine.AI;
         {
             agent.isStopped = false;
         }
+         if (agent == null) return;
 
     }
 
