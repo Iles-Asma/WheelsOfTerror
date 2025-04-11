@@ -33,10 +33,18 @@ using UnityEngine.AI
             }
 
         }
+
+        // arret de l'ennemi quand il est trop proche du joueur
+        if (distanceToPlayer <= stopDistance) {
+
+            agent.isStopped = true;
+        
+        }else
+        {
+            agent.isStopped = false;
+        }
+
     }
-
-
-
 
 }
 
