@@ -1,15 +1,15 @@
 using UnityEngine;
-using UnityEngine.AI
+using UnityEngine.AI;
 
- public class EnemyAI : Monobehavior
+ public class EnemyAI : MonoBehaviour
 {
     public NavMeshAgent agent;
-    public TransForm player; // Reference du joueur
+
+    public Transform player; // Reference du joueur
     public float detectRange = 30f; // distance a laquelle l'ennemie suie le joueur
     public float stopDistance = 2f; // distance a laquelle l'ennemie s'arrête
     public float updateRate = 0.5f; // fréquence de mise à jour de la détection
 
-    public NavMeshAgent agent;
     private float nextUpdateTime = 0f; // gestion de mis a jour du temps
 
     void Start() { 
